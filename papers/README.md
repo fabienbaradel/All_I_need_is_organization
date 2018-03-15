@@ -22,6 +22,9 @@
 * [SCAN: Learning Abstract Hierarchical
 Compositional Visual Concepts](https://arxiv.org/abs/1707.03389) - Higgings et al. - NIPS 2017 - Deepmind (D. Hassabis)
     * Learn of a disentangle representation of the latent structure of the visual world and then SCAN (Symbol-Concept Association Network)
+* [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://arxiv.org/abs/1803.05268) - Mascharka et al - CVPR 2018 - MIT
+
+
 ## Causality
 * [Discovering Causal Signals in Images](https://arxiv.org/abs/1605.08179) - Lopez-Paz et al. - CVPR 2017 - Facebook (L. Bottou)
     * Study about causal and anticausal signals in images using annotations from object detection dataset
