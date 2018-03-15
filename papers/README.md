@@ -80,3 +80,9 @@ for Action Recognition](https://arxiv.org/abs/1607.01794) - Li et al. - ECCV 201
 * [Arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time#The_causal_arrow_of_time)
     * Introduced by Arthur Eddington in 1927 involving the "one-way direction" or "asymmetry" of time
     * Unsolved general physics question
+    
+## Main conference papers
+* [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
+* [NIPS](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-30-2017)
+* [ICLR](https://iclr.cc/Conferences/Papers)
+* [ICML](https://icml.cc/Conferences/2017/Schedule?type=Poster)
